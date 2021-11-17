@@ -17,8 +17,8 @@ My name is Henry Chung and I'm a software engineer. I'm from Melbourne, Australi
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 
-
-## &#x1f4c8; GitHub Stats
+<details>
+  <summary>&#x1f4c8; GitHub Stats </summary>
 
 <a href="https://github.com/hc-12/hc-12.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hc-12&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -30,4 +30,6 @@ My name is Henry Chung and I'm a software engineer. I'm from Melbourne, Australi
 
 <a href="https://github.com/hc-12/chains">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hc-12&repo=chains&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
+
+</details>
